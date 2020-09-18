@@ -1,6 +1,6 @@
 # Cool stuff
 
-## ...about perception, cognition, neuroscience, psychology, physics & mathematics
+...about perception, cognition, neuroscience, psychology, physics, mathematics and whatever else I find cool and interesting.
 
 This is a personal, curated list of links to stuff that I find interesting and relevant to my scientific work on auditory perception. If you have anything to add to this list for whatever reason, you're more than welcome to do a pull request. The point of this list is for me to have one place for all links to cool stuff that I come about (might as well share it with the world, right?).
 
